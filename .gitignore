@@ -1,3 +1,4 @@
 data/
 prediction_results_filtered.csv
 prediction_results_GRU.csv
+prediction_results_filtered.csv
